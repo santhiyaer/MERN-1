@@ -20,4 +20,15 @@ communicate with clients directly through the platform</p>
   <li>Real-time Messaging System: Integrated chat for seamless communication between clients and freelancers.</li>
   <li>Review & Rating System: A two-way feedback system to build trust and reputation.</li>
   <li>Secure Payment Integration: Integration with Razorpay/Stripe for secure transactions and milestone payments.</li>
-</ul
+</ul>
+
+<h1>Application Screenshots</h1>
+<p>The following images showcase the application:</p>
+<p>
+  
+  <img src="screenshots/s1.png" alt="Output 2" width="400">
+  <img src="screenshots/s2.png" alt="Output 3" width="400">
+  <img src="screenshots/s3.png" alt="Output 3" width="400">
+  <img src="screenshots/s4.png" alt="Output 3" width="400">
+  <img src="screenshots/s5.png" alt="Output 3" width="400">
+</p>
