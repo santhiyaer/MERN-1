@@ -22,7 +22,7 @@ communicate with clients directly through the platform</p>
   <li>Secure Payment Integration: Integration with Razorpay/Stripe for secure transactions and milestone payments.</li>
 </ul>
 
-<h1>Application Screenshots</h1>
+<h1>Application Screenshots:</h1>
 <p>The following images showcase the application:</p>
 <p>
   
