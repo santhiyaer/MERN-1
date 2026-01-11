@@ -1,0 +1,60 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Users\kajal\AppData\Roaming\npm\node_modules\npm\bin\npm-cli.js
+1 info using npm@10.8.3
+2 info using node@v22.11.0
+3 silly config load:file:C:\Users\kajal\AppData\Roaming\npm\node_modules\npm\npmrc
+4 silly config load:file:E:\.npmrc
+5 silly config load:file:C:\Users\kajal\.npmrc
+6 silly config load:file:C:\Users\kajal\AppData\Roaming\npm\etc\npmrc
+7 verbose title npm create vite@latest frontend react
+8 verbose argv "create" "vite@latest" "frontend" "--template" "react"
+9 verbose logfile logs-max:10 dir:E:\Zaalima intenship project\Project1-GigConnect\path\to\another\directory\.npm-cache\_logs\2025-10-15T07_15_32_237Z-
+10 verbose logfile E:\Zaalima intenship project\Project1-GigConnect\path\to\another\directory\.npm-cache\_logs\2025-10-15T07_15_32_237Z-debug-0.log
+11 silly logfile done cleaning log files
+12 silly packumentCache heap:2197815296 maxSize:549453824 maxEntrySize:274726912
+13 http fetch GET 200 https://registry.npmjs.org/npm 375ms
+14 http fetch GET 200 https://registry.npmjs.org/create-vite 504ms (cache miss)
+15 silly packumentCache heap:2197815296 maxSize:549453824 maxEntrySize:274726912
+16 silly idealTree buildDeps
+17 silly fetch manifest create-vite@8.0.2
+18 silly packumentCache full:https://registry.npmjs.org/create-vite cache-miss
+19 http fetch GET 200 https://registry.npmjs.org/create-vite 117ms (cache miss)
+20 silly packumentCache full:https://registry.npmjs.org/create-vite set size:undefined disposed:false
+21 silly placeDep ROOT create-vite@8.0.2 OK for:  want: 8.0.2
+22 warn EBADENGINE Unsupported engine {
+22 warn EBADENGINE   package: 'create-vite@8.0.2',
+22 warn EBADENGINE   required: { node: '^20.19.0 || >=22.12.0' },
+22 warn EBADENGINE   current: { node: 'v22.11.0', npm: '10.8.3' }
+22 warn EBADENGINE }
+23 silly reify moves {}
+24 silly audit bulk request { 'create-vite': [ '8.0.2' ] }
+25 silly tarball no local data for create-vite@https://registry.npmjs.org/create-vite/-/create-vite-8.0.2.tgz. Extracting by manifest.
+26 http fetch GET 200 https://registry.npmjs.org/create-vite/-/create-vite-8.0.2.tgz 345ms (cache miss)
+27 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 480ms
+28 silly audit report {}
+29 verbose stack Error: command failed
+29 verbose stack     at promiseSpawn (C:\Users\kajal\AppData\Roaming\npm\node_modules\npm\node_modules\@npmcli\promise-spawn\lib\index.js:22:22)
+29 verbose stack     at spawnWithShell (C:\Users\kajal\AppData\Roaming\npm\node_modules\npm\node_modules\@npmcli\promise-spawn\lib\index.js:124:10)
+29 verbose stack     at promiseSpawn (C:\Users\kajal\AppData\Roaming\npm\node_modules\npm\node_modules\@npmcli\promise-spawn\lib\index.js:12:12)
+29 verbose stack     at runScriptPkg (C:\Users\kajal\AppData\Roaming\npm\node_modules\npm\node_modules\@npmcli\run-script\lib\run-script-pkg.js:77:13)
+29 verbose stack     at runScript (C:\Users\kajal\AppData\Roaming\npm\node_modules\npm\node_modules\@npmcli\run-script\lib\run-script.js:9:12)
+29 verbose stack     at run (C:\Users\kajal\AppData\Roaming\npm\node_modules\npm\node_modules\libnpmexec\lib\run-script.js:48:10)
+29 verbose stack     at async exec (C:\Users\kajal\AppData\Roaming\npm\node_modules\npm\node_modules\libnpmexec\lib\index.js:298:10)
+29 verbose stack     at async Init.execCreate (C:\Users\kajal\AppData\Roaming\npm\node_modules\npm\lib\commands\init.js:135:5)
+29 verbose stack     at async Init.exec (C:\Users\kajal\AppData\Roaming\npm\node_modules\npm\lib\commands\init.js:44:14)
+29 verbose stack     at async Npm.exec (C:\Users\kajal\AppData\Roaming\npm\node_modules\npm\lib\npm.js:207:9)
+30 error code 3221225786
+31 error path E:\Zaalima intenship project\Project1-GigConnect
+32 error command failed
+33 error command C:\WINDOWS\system32\cmd.exe /d /s /c create-vite frontend react
+34 verbose cwd E:\Zaalima intenship project\Project1-GigConnect
+35 verbose os Windows_NT 10.0.26100
+36 verbose node v22.11.0
+37 verbose npm  v10.8.3
+38 notice
+38 notice New [31mmajor[39m version of npm available! [31m10.8.3[39m -> [34m11.6.2[39m
+38 notice Changelog: [34mhttps://github.com/npm/cli/releases/tag/v11.6.2[39m
+38 notice To update run: [4mnpm install -g npm@11.6.2[24m
+38 notice  { force: true, [Symbol(proc-log.meta)]: true }
+39 verbose exit 3221225786
+40 verbose code 3221225786
+41 error A complete log of this run can be found in: E:\Zaalima intenship project\Project1-GigConnect\path\to\another\directory\.npm-cache\_logs\2025-10-15T07_15_32_237Z-debug-0.log
