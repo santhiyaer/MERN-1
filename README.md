@@ -31,4 +31,15 @@ communicate with clients directly through the platform</p>
   <img src="screenshots/s3.png" alt="Output 3" width="400">
   <img src="screenshots/s4.png" alt="Output 3" width="400">
   <img src="screenshots/s5.png" alt="Output 3" width="400">
+  <img src="screenshots/s6.png" alt="Output 3" width="400">
+  <img src="screenshots/s7.png" alt="Output 3" width="400">
+  <img src="screenshots/s8.png" alt="Output 3" width="400">
+  <img src="screenshots/s9.png" alt="Output 3" width="400">
+  <img src="screenshots/s10.png" alt="Output 3" width="400">
+  <img src="screenshots/s11.png" alt="Output 3" width="400">
+  <img src="screenshots/s12.png" alt="Output 3" width="400">
+  <img src="screenshots/s13.png" alt="Output 3" width="400">
+  <img src="screenshots/s14.png" alt="Output 3" width="400">
+  <img src="screenshots/s15.png" alt="Output 3" width="400">
+  <img src="screenshots/s16.png" alt="Output 3" width="400">
 </p>
